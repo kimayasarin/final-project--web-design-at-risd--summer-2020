@@ -50,6 +50,10 @@ footer {
    
 }
 
+.contact {
+   padding: 20px;
+}
+
 a:link {
       text-decoration: none;
       color: black;
@@ -107,3 +111,4 @@ nav > ul > li > ul {
 .hover:hover {
    opacity: 0.5;
 }
+
